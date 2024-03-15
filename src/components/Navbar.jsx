@@ -4,7 +4,7 @@ import '../styles/components/navbar.sass'
 const Navbar = () => {
     return(
         <header className="header">
-            <a href="" className='header-brand'>Galeria</a>
+            <a href="" className='header-brand'>Motos Yamaha</a>
             <nav className='header-navbar'>
                 <ul>
                     <li>
